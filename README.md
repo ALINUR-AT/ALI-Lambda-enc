@@ -1,5 +1,5 @@
 # Script for hard encript
-# Dit Try To decode 
+# Dot Try To decompile 
 # Termux Setuo Command 
 * apt update 
 * apt upgrade 
